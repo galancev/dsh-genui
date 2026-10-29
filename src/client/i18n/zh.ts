@@ -372,6 +372,7 @@ export const ZH: Record<keyof typeof EN, string> = {
   'block.compareAfter': '改动后',
   'block.compareOpen': '放大查看 {name}',
   'block.compareHint': '拖动对比',
+  'block.gateReason': '先填完上面的条件。',
   'block.choices': '选一个',
   'block.choices.recommended': '推荐',
   'block.choices.unavailable': '不可选',
@@ -379,6 +380,7 @@ export const ZH: Record<keyof typeof EN, string> = {
   'block.choices.multiHint': '可多选。',
   'block.choices.maxHint': '最多选 {max} 项。',
   'block.choices.count': '已选 {count} 项',
+  'block.choices.localOnly': '只在本地记录 · 没有发送',
   'block.choices.sent': '已发送 · 仍可修改',
 
   // -------------------------------------------------------- error text

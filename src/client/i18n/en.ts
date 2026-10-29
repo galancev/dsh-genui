@@ -377,6 +377,7 @@ export const EN = {
   'block.compareAfter': 'After',
   'block.compareOpen': 'Open {name} larger',
   'block.compareHint': 'Drag to compare',
+  'block.gateReason': 'Fill in the fields above first.',
   'block.choices': 'Pick one',
   'block.choices.recommended': 'Recommended',
   'block.choices.unavailable': 'Unavailable',
@@ -384,6 +385,7 @@ export const EN = {
   'block.choices.multiHint': 'Pick any that apply.',
   'block.choices.maxHint': 'Pick up to {max}.',
   'block.choices.count': '{count} selected',
+  'block.choices.localOnly': 'Kept locally · nothing was sent',
   'block.choices.sent': 'Sent · you can still change it',
 
   // -------------------------------------------------------- error text
